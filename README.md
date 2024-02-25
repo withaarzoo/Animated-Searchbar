@@ -1,6 +1,6 @@
 ## Animated Search Bar
 
-This repository contains code for creating an animated search bar using HTML and CSS. The search bar expands and contracts smoothly to enhance user experience.
+This repository contains code for creating an animated search bar using HTML and CSS. The search bar expands and contracts smoothly to enhance user experience .
 
 ### Preview
 ![preview](https://github.com/withaarzoo/Animated-Searchbar/assets/59678435/15a02ef6-722f-4e37-8135-93bc5ae5d5b2)
